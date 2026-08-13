@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-603oa2.salamduit.online/sitemap.xml
